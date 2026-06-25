@@ -32,10 +32,6 @@ A modern e-commerce platform designed for footwear retail, featuring a responsiv
 
 * MongoDB
 
-## Live Demo
-
-🔗 https://t7sportsecommercewebsite.netlify.app/
-
 ## Development Status
 
 This project showcases the design and development of a modern footwear clothing e-commerce platform, demonstrating responsive user interface design, product presentation, and full-stack application architecture using HTML, CSS, JavaScript, Node.js, and MongoDB.
