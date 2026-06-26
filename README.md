@@ -36,8 +36,6 @@ A modern e-commerce platform designed for footwear retail, featuring a responsiv
 
 This project showcases the design and development of a modern footwear clothing e-commerce platform, demonstrating responsive user interface design, product presentation, and full-stack application architecture using HTML, CSS, JavaScript, Node.js, and MongoDB.
 
-Note: This project is intended for demo and portfolio purposes only and is not fully functional. Some features are implemented for presentation of design and structure.
-
 ## Planned Enhancements
 
 * User authentication and role-based access control
